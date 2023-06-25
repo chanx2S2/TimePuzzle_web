@@ -1,6 +1,6 @@
 # flutter_web
 
-A new Flutter project.
+2023 데이터베이스시스템 프로젝트
 
 ## Getting Started
 
